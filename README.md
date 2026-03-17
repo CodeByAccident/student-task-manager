@@ -79,7 +79,7 @@ This project was built to:
 
 ## 👨‍💻 Author
 
-* Your Name
+* Shreya Pandita
 
 ---
 
